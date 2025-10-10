@@ -4,7 +4,7 @@ cd GT
 
 # Backend
 cd taxes-backend
-docker-compose up --build
+docker compose up --build
 
 
 # Front Web/Admin
