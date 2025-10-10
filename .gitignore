@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Build folders
+.next/
+dist/
+build/
+.expo/
+.gradle/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Docker
+*.pid
+*.log
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
