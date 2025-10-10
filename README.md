@@ -4,8 +4,8 @@ cd GT
 
 # Backend
 cd taxes-backend
-docker-compose up -d
-npm install
+docker-compose up --build
+
 
 # Front Web/Admin
 cd ../taxes-admin
